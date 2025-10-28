@@ -1,0 +1,1 @@
+The goal of this code is to see if we can predict which company a food/drink item comes from based on purely the nutritional value of it.
