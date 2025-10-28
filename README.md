@@ -3,3 +3,5 @@ The goal of this code is to see if we can predict which company a food/drink ite
 Dataset source: https://www.kaggle.com/datasets/tan5577/nutritonal-fast-food-dataset?select=FastFoodNutritionMenuV3.csv
 
 ChatGPT5 was used to generate the streamlit application (app.py) and visualize_result.py.
+
+Link to deployed webapplication: https://h669985-fastfoodpredicter-app-iuuots.streamlit.app/
