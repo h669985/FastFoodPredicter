@@ -5,3 +5,5 @@ Dataset source: https://www.kaggle.com/datasets/tan5577/nutritonal-fast-food-dat
 ChatGPT5 was used to generate the streamlit application (app.py) and visualize_result.py.
 
 Link to deployed webapplication: https://h669985-fastfoodpredicter-app-iuuots.streamlit.app/
+
+Instructions for usage is in the pdf file, althtough only in Norwegian.
